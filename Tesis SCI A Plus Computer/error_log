@@ -1,0 +1,1 @@
+[26-Dec-2019 02:17:38 UTC] PHP Fatal error:  Cannot redeclare cliente_api_rest_post_meta() (previously declared in /home/lggiphy7npoi/public_html/sciapluscomputer/wp-content/plugins/Prerrequisitos/prerrequisitos.php:70) in /home/lggiphy7npoi/public_html/sciapluscomputer/wp-content/plugins/Suscripciones/suscripciones.php on line 27
